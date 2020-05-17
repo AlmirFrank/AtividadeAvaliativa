@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atividade Avaliativa</string>
+    <string name="c_digo_da_empresa_na_bovespa_ex_itub4">Código da empresa na Bovespa. Ex: ITUB4</string>
+    <string name="logo_app">logo_app</string>
+</resources>
